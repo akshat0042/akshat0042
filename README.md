@@ -28,8 +28,6 @@ and learning new technologies that push my creativity forward.
 ✔ Always happy to discuss Java, AI/ML, and web development topics!  
 Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking. 
 
-### 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/akshatgandhi237?theme=dark&font=baloo&extension=null)
 
 ## 📽 Watch Wave – Video Sharing Platform  
 // Secure, modular video-sharing service  
@@ -65,6 +63,10 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Soil, irrigation & fertilizer data  
 🔹 Rainfall + yield prediction models  
 🔹 AI feedback & recommendations  
+
+
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcode.card.workers.dev/akshatgandhi237?theme=dark&font=baloo&extension=null)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
