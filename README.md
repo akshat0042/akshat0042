@@ -6,7 +6,7 @@ Hi there! I'm Akshat Gandhi
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=71&lines=Full+Stack+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=835&height=150&lines=Currently+building+projects+that+scale%2C+not+just+portfolios.;Exploring+the+universe+of+code+one+repo+at+a+time.;Java+%2B+spring+%2B+Python+%2B+JavaScript)](https://git.io/typing-svg)
 I am an MSCIT student with a strong interest in **backend systems, AI/ML and full-stack web development**.  
 Currently, I’m diving deep into **Java Spring Boot**. I enjoy solving problems, building impactful projects, 
 and learning new technologies that push my creativity forward.  
