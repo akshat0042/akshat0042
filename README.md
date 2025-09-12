@@ -1,16 +1,22 @@
+👋 Hi, I’m Akshat Gandhi  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
-<!--
-**akshat0042/akshat0042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&center=true&width=419&height=71&lines=Full+Stack+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+I am an MSCIT student with a strong interest in **backend systems, AI/ML and full-stack web development**.  
+Currently, I’m diving deep into **Java Spring Boot**. I enjoy solving problems, building impactful projects, 
+and learning new technologies that push my creativity forward.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’ve worked on projects ranging from crop yield prediction with ML to full-stack platforms like a YouTube clone and a corporate wellness app.  
+
+📚 I’m currently learning ...  
+- Spring Boot (Advanced)  
+- Modular Monolithic systems & System Design  
+- AI/ML applications in real-world projects  
+
+🚀 I’m open to collaborating on exciting development projects.  
+✔ Always happy to discuss Java, AI/ML, and web development topics!  
+
+Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🏋 staying active.  
+
+📫 Reach out to me at: **akshatgandhi237@gmail.com**  
+🌐 Connect with me on [LinkedIn](linkedin.com/in/akshat-gandhi-217824240/)  
