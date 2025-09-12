@@ -34,6 +34,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 20+ role-secured REST APIs  
 🔹 Byte-range streaming + likes, comments, watch-later  
 🔹 Rule-based video recommendations  
+![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📚 Enchanted Library – OOP Design Project  
 [🔗 GitHub Repo](https://github.com/Bhavya3836/OOPS-Server)  
@@ -42,6 +43,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Observer-based real-time notifications  
 🔹 Auto-lending, fee tracking, restoration logs  
 🔹 Scalable & modular design  
+![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌐 EngiVerse – Engineer Collaboration Platform  
 [🔗 GitHub Repo](https://github.com/Bhavya3836/EngiVerseServer)  
@@ -50,6 +52,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Multi-tier role access  
 🔹 Forums, polls, onboarding groups  
 🔹 Tag-based feeds + cart & checkout  
+![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💼 TalentNest – Recruitment Portal  
 [🔗 GitHub Repo](https://github.com/akshat0042/watchWave)  
@@ -58,6 +61,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Job posts + applicant tracking  
 🔹 Skill matching via Jaccard similarity  
 🔹 Token login + email notifications  
+![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌱 KisaAnuman – Agricultural Yield Predictor  
 // AI-driven crop yield system  
@@ -65,6 +69,7 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Soil, irrigation & fertilizer data  
 🔹 Rainfall + yield prediction models  
 🔹 AI feedback & recommendations  
+![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
