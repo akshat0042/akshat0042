@@ -1,4 +1,5 @@
-👋 Hi, I’m Akshat Gandhi  
+![Animated Banner](https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966)
+ Hi there!, I’m Akshat Gandhi  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=812&height=71&lines=Full+Stack+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
 
@@ -34,7 +35,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 20+ role-secured REST APIs  
 🔹 Byte-range streaming + likes, comments, watch-later  
 🔹 Rule-based video recommendations  
-![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 📚 Enchanted Library – OOP Design Project  
 [🔗 GitHub Repo](https://github.com/Bhavya3836/OOPS-Server)  
@@ -43,7 +43,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Observer-based real-time notifications  
 🔹 Auto-lending, fee tracking, restoration logs  
 🔹 Scalable & modular design  
-![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌐 EngiVerse – Engineer Collaboration Platform  
 [🔗 GitHub Repo](https://github.com/Bhavya3836/EngiVerseServer)  
@@ -52,7 +51,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Multi-tier role access  
 🔹 Forums, polls, onboarding groups  
 🔹 Tag-based feeds + cart & checkout  
-![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💼 TalentNest – Recruitment Portal  
 [🔗 GitHub Repo](https://github.com/akshat0042/watchWave)  
@@ -61,7 +59,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Job posts + applicant tracking  
 🔹 Skill matching via Jaccard similarity  
 🔹 Token login + email notifications  
-![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🌱 KisaAnuman – Agricultural Yield Predictor  
 // AI-driven crop yield system  
@@ -69,7 +66,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Soil, irrigation & fertilizer data  
 🔹 Rainfall + yield prediction models  
 🔹 AI feedback & recommendations  
-![Animated Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
