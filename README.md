@@ -33,7 +33,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 ![LeetCode Stats](https://leetcode.card.workers.dev/akshatgandhi237?theme=dark&font=baloo&extension=null)
 
 ## 📽 Watch Wave – Video Sharing Platform  
-[🔗 GitHub Repo](https://github.com/akshat0042/watchWave)  
 // Secure, modular video-sharing service  
 🔹 Java · Spring Boot · Security · JPA · PostgreSQL  
 🔹 20+ role-secured REST APIs  
@@ -41,7 +40,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Rule-based video recommendations  
 
 ## 📚 Enchanted Library – OOP Design Project  
-[🔗 GitHub Repo](https://github.com/Bhavya3836/OOPS-Server)  
 // Object-oriented library system  
 🔹 Python · OOP · Design Patterns  
 🔹 Observer-based real-time notifications  
@@ -49,7 +47,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Scalable & modular design  
 
 ## 🌐 EngiVerse – Engineer Collaboration Platform  
-[🔗 GitHub Repo](https://github.com/Bhavya3836/EngiVerseServer)  
 // Full-stack collab + e-commerce hub  
 🔹 ReactJS · NodeJS · ExpressJS · MongoDB · TailwindCSS  
 🔹 Multi-tier role access  
@@ -57,7 +54,6 @@ Outside of tech, I love 🎮 video games, 🎵 exploring music, and 🧗 Hiking.
 🔹 Tag-based feeds + cart & checkout  
 
 ## 💼 TalentNest – Recruitment Portal  
-[🔗 GitHub Repo](https://github.com/akshat0042/watchWave)  
 // AI-powered hiring platform  
 🔹 Java · Spring Boot · Security · JPA · MySQL · SMTP  
 🔹 Job posts + applicant tracking  
