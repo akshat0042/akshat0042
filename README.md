@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&width=435&lines=Full+Stack+Developer+%7C+Spring+Enthusiast)](https://git.io/typing-svg)
 <!--
 **akshat0042/akshat0042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
